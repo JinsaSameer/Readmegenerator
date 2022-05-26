@@ -1,9 +1,9 @@
 
- <h1 align="center">hhhhh</h1>
+ <h1 align="center">Readme  Generator</h1>
  ## User Name:
- hhhhhh
+ JinsaSameer
  ## Email Address :
- nnnnnnn
+ jinsajaleel@gmail.com
 
 
  ##Table Of Contents
@@ -21,11 +21,11 @@
  ##Description
 
  
- wwwww
+ This projects generate Readme file from user inputs
 
  ##Command
 
- wwww
+ test
 
  ##License
 
@@ -35,9 +35,9 @@
 
  email
 
- Find me on GitHub:(https://github.com/hhhhhh) 
+ Find me on GitHub:(https://github.com/JinsaSameer) 
 
- Email me :nnnnnnn
+ Email me :jinsajaleel@gmail.com
 
  
  
