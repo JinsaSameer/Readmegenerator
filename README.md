@@ -1,10 +1,10 @@
 # Readmegenerator
 
- A node.js application that uses user input from inquirer togeneratea README.md file for user repository.
+ A node.js application that uses user input from inquirer to generatea README.md file for user repository.
  
-## Screenshort of the Application
+## live video of the Application
 
-![Screenshot (40)](https://user-images.githubusercontent.com/101385521/169678911-236aae85-3763-4e7d-ba1c-c0967bb5f7eb.png)
+https://drive.google.com/file/d/1X9wtFwW2TVYoLQ89zMsHmWasoNaD_SsC/view
 
  
  
@@ -12,23 +12,14 @@
  
  
  
+ ##Tecnologies Used
+ #JavaScript
+ #nodeJs
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
  
  ## User Story
 
